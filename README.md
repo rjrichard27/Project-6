@@ -18,7 +18,7 @@ I then created a csv file that included all of the words in the book along with 
 ```
 df.to_csv("The Bell Jar Words.txt", index=False)
 ```
-![alt text](https://github.com/rjrichards27/NoCode-LowCode/issues/1#issue-1005487503)
+![Word Count Bar Graph](/images/Word_Count_Graph.png)
 
 The last part of my text analysis was a sentiment analysis of the first part of the first chapter. The sentiment analysis showed that the overall sentiment was negative, with 78.5% of the words being negative. This outcome does not surprise me because the book describes the struggle of living with  a mental illness.
 
