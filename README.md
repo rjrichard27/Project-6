@@ -20,7 +20,7 @@ df.to_csv("The Bell Jar Words.txt", index=False)
 ```
 ![Word Count Bar Graph](/Images/Word_Count_Graph.png)
 
-The last part of my text analysis was a sentiment analysis of the first part of the first chapter. The sentiment analysis showed that the overall sentiment was negative, with 78.5% of the words being negative. This outcome does not surprise me because the book describes the struggle of living with  a mental illness.
+The last part of my text analysis was a sentiment analysis, using AWS Comphrend, of the first part of the first chapter. The sentiment analysis showed that the overall sentiment was negative, with 78.5% of the words being negative. This outcome does not surprise me because the book describes the struggle of living with  a mental illness.
 
 ## Conclusion
 Overall the text analysis showed that The Bell Jar by Sylvia Plath uses colors to often describe the world of the main character. It would be interesting to do further analysis to determine what the colors are used to describe. The colors could be used to describe the setting or be symbolism for something else. The sentiment analysis shows that most of the first chapter includes negative words. The tone of the book is realtively negative, so I would be curious to see if this would change throughout the book. It would be beneficial to do further sentiment analysis on more of the book to determine its overall sentiment. 
