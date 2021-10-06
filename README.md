@@ -11,7 +11,7 @@ I used that string to develop a word cloud to show the most used words in the bo
 word_cloud_text = str1 = ' '.join(no_stop_words)
 wordCloud = WordCloud().generate(word_cloud_text)
 ```
-
+![Word Cloud](/Images/Word_Cloud.png)
 
 I then created a csv file that included all of the words in the book along with the frequency of each specific word, which included stop words. I used this csv in QuickStart to create a bar chart of the most used words in the book. The chart showed that the most used word was “and” followed by “of”. All of the words on this graph were stop words, which was not surprising. These words are used the most often in order to create sentence structure, which is why I did not include them in the word cloud.
 
